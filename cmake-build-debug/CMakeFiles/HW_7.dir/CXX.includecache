@@ -1,0 +1,26 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/lukebaber/Desktop/CSCE121/CSCE HW/Week11/HW 7/functions.h
+string
+-
+functions.h
+/Users/lukebaber/Desktop/CSCE121/CSCE HW/Week11/HW 7/functions.h
+
+/Users/lukebaber/Desktop/CSCE121/CSCE HW/Week11/HW 7/seamcarving.cpp
+iostream
+-
+string
+-
+sstream
+-
+fstream
+-
+functions.h
+/Users/lukebaber/Desktop/CSCE121/CSCE HW/Week11/HW 7/functions.h
+

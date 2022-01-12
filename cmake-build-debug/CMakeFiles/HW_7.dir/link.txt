@@ -1,0 +1,1 @@
+/Library/Developer/CommandLineTools/usr/bin/c++  -g -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX10.15.sdk -Wl,-search_paths_first -Wl,-headerpad_max_install_names  CMakeFiles/HW_7.dir/functions.cpp.o CMakeFiles/HW_7.dir/seamcarving.cpp.o  -o HW_7 
